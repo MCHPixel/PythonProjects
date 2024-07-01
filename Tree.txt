@@ -1,0 +1,10 @@
+/Desktop
+/WebServer
+    /assets
+        icon.ico
+        icon.jpg
+            /flags
+                en_flag.png
+                de_flag.png
+                fr_flag.png
+    server.py
